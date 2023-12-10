@@ -5,3 +5,5 @@ Creating a QR code generator using HTML, CSS, and JavaScript involves building a
 
 
 
+
+![Screenshot 2023-12-10 235938](https://github.com/itsnishant17/QR-code-generator/assets/72322325/0b45405c-f107-4e15-8b06-6cfc25597c1a)
